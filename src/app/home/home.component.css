@@ -6,3 +6,9 @@ mat-card{
     color:white;
     padding:20px;;
 }
+
+a{
+    font-size: 16px;
+    color: white;
+    text-decoration: none;
+}
