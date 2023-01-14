@@ -1,0 +1,46 @@
+body{
+    background-color: lightgray;
+}
+.toolbar{
+    display: flex;
+    justify-content: space-between;
+}
+
+.button-wrapper{
+    cursor: pointer;   
+  
+}
+
+mat-icon{
+    margin-bottom: -5px;
+}
+
+.span-padding-right{
+    padding-right:20px;
+}
+.mat-mdc-progress-spinner .mdc-circular-progress__determinate-circle, .mat-mdc-progress-spinner .mdc-circular-progress__indeterminate-circle-graphic {
+    stroke: white!important;
+}
+
+.mat-mdc-progress-spinner{
+    position: absolute!important;
+    z-index:33;
+    top: 40%;
+    left: 50%;
+}
+.backdrop{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    z-index: 2;
+    background-color: black;
+    opacity: 0.8;
+}
+
+.red-snackbar{
+    --mdc-snackbar-container-color: #FFCCCB;
+}
+
+.green-snackbar{
+    --mdc-snackbar-container-color: #90EE90;
+}

@@ -1,0 +1,21 @@
+.custom-modalbox{
+    background-color:white;
+}
+
+.table-container{
+    padding: 15px 25px 25px;
+}
+
+#add-message{
+    margin-bottom: 20px;
+}
+
+.mat-column-action{
+    
+    
+}
+
+mat-icon{
+    cursor: pointer;
+}
+

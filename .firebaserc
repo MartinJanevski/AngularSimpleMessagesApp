@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "fir-proect-b63332": {
+      "hosting": {
+        "messages-project": [
+          "fir-proect-b63332"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "fir-proect-b63332"
+  }
+}

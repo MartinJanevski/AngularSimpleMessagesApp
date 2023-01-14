@@ -1,0 +1,33 @@
+
+
+.title{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 15px!important;
+    padding-bottom:30px!important;
+}
+
+mat-icon{
+    cursor: pointer;
+    padding-right:10px;
+
+}
+
+.mdc-dialog__title {  
+     padding: 0px;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.message-form{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    padding: 20px;
+    
+}
